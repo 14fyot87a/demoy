@@ -19,7 +19,7 @@
     z-index: 11;
     width:100%;
     height:650px;
-    background-image: url("assets/house.jpg");
+    background-image: url("house.jpg");
     background-position:center;
     background-size:cover;
     display:flex;
@@ -154,7 +154,7 @@
   align-items: center;
   text-align: center;
   flex-direction: column;
-  background-image: url("../../assets/tiles.png");
+  background-image: url("tiles.png");
 }
 .menu img{
   margin-top: 45px;
@@ -238,7 +238,7 @@
     align-items: center;
     flex-direction: column;
     text-align: center;
-    background-image: url("../../assets/tiles.png");
+    background-image: url("tiles.png");
   }
   .map a{
     position: relative;
